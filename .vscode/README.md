@@ -1,15 +1,21 @@
-# Parcial I - Programación en C
+# 📝 Parcial I - Programación en C
 
-*Estudiante:* Breiner Alexis Torres Advincula
+---
 
-## Descripción
-Este programa implementa funciones recursivas en C para manejar notas de estudiantes:
-- Calcular la nota máxima
-- Calcular el promedio
-- Ordenar estudiantes por código
+## 👨‍🎓 Estudiante
 
-## Compilación
-Para compilar el programa con GCC:
+**Breiner Alexis Torres Advincula**
 
-```bash
-gcc parcial1.c -o parcial1.exe
+---
+
+## 📚 Descripción del Proyecto
+
+Este proyecto es una solución para el Parcial I de Programación en C. El programa implementa un conjunto de **funciones recursivas** diseñadas para la gestión de notas de estudiantes.
+
+Las funcionalidades principales son:
+
+* **Cálculo de nota máxima:** Encuentra la nota más alta en un conjunto de datos.
+* **Cálculo de promedio:** Determina el promedio de las notas.
+* **Ordenamiento:** Organiza a los estudiantes en orden ascendente por su código.
+$ git config --global user.name "vasededatos"
+$ git config --global user.email tbreiner38@gmai.com
